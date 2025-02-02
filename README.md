@@ -1,5 +1,5 @@
 ## Description:
-Persistent Effects is a server-side mod designed to enhance gameplay and convenience. It ensures that players retain their active status effects even after death, eliminating the frustration of losing buffs or debuffs upon respawning. By preserving effects and reapplying them automatically, this mod not only improves the player experience but also maintains fairness in multiplayer environments by ensuring all can't get rid of effects buy dying.
+Persistent Effects is a server-side mod designed to enhance gameplay and convenience. It ensures that players retain their active status effects even after death, eliminating the frustration of losing buffs or debuffs upon respawning. By preserving effects and reapplying them automatically, this mod not only improves the player experience but also maintains fairness in multiplayer environments, as it prevents players from removing effects by dying.
 
 Key Features:
 
