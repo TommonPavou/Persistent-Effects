@@ -7,11 +7,11 @@ Key Features:
 
   - Preserves the type, level, and remaining duration of each effect.
 
-  - Fully compatible with vanilla effects.
+  - Fully compatible with vanilla-like effects.
 
 Whether you're running a small private server or a large multiplayer world, Persistent Effects helps streamline gameplay while maintaining balance and fairness.
 
-Full compatibility with mods that introduce others potion effects is not guaranteed.
+Full compatibility with mods that introduce others effects with non-vanilla mechanics is not guaranteed.
 
 I will soon release this mod for additional Minecraft versions. To stay up to date for future updates and releases, consider following this mod!
 
