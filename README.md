@@ -1,17 +1,19 @@
 ## Description:
-Persistent Effects is a server-side mod designed to enhance gameplay and convenience. It ensures that players retain their active status effects even after death, eliminating the frustration of losing buffs or debuffs upon respawning. By preserving effects and reapplying them automatically, this mod not only improves the player experience but also maintains fairness in multiplayer environments, as it prevents players from removing effects by dying.
+Persistent Effects is a server-side mod designed to enhance gameplay and convenience. It ensures that players retain their positive status effects even after death, eliminating the frustration of losing buffs upon respawning. By preserving effects and reapplying them automatically, this mod not only improves the player experience but also maintains fairness in multiplayer environments.
 
 Key Features:
 
-  - Keep's the players effects even after death.
+  - By default, keep's all the players positive status effects even after death.
 
   - Preserves the type, level, and remaining duration of each effect.
 
-  - Fully compatible with vanilla-like effects.
+  - Configurable with the givven config file.
+  
+  - Fully compatible with modded effects.
 
 Whether you're running a small private server or a large multiplayer world, Persistent Effects helps streamline gameplay while maintaining balance and fairness.
 
-Full compatibility with mods that introduce other effects with non-vanilla mechanics is not guaranteed.
+This mod has full compatibility with most mods that introduce new effects or alter existing ones.
 
 I will soon release this mod for additional Minecraft versions. To stay up to date for future updates and releases, consider following this mod!
 
