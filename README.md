@@ -7,7 +7,7 @@ Key Features:
 
   - Preserves the type, level, and remaining duration of each effect.
 
-  - Configurable with the givven config file.
+  - Configurable with the given config file.
   
   - Fully compatible with modded effects.
 
@@ -25,6 +25,7 @@ Feel free to include this mod in your modpack!
 1. Download the latest `.jar` file from the [Releases](https://github.com/TommonPavou/Persistent-Effects/releases) section.
 2. Place the file into the `mods/` folder of your Minecraft server.
 3. Start the server to load the mod.
+4. Configure the mod with the file `persistent-effects-exclusions.txt` in the `config/` folder of your Minecraft server.
 
 
 ## Bug Reporting
