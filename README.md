@@ -9,7 +9,7 @@ Key Features:
 
   - Configurable with the given config file.
   
-  - Fully compatible with most modded effects.
+  - Fully compatible with all modded effects.
 
 Whether you're running a small private server or a large multiplayer world, Persistent Effects helps streamline gameplay while maintaining balance and fairness.
 
