@@ -15,7 +15,7 @@ Whether you're running a small private server or a large multiplayer world, Pers
 
 This mod has full compatibility with most mods that introduce new effects or alter existing ones.
 
-I will soon release this mod for additional Minecraft versions. To stay up to date for future updates and releases, consider following this mod!
+I will soon release this mod for additional Minecraft versions and make it client-side too. To stay up to date for future updates and releases, consider following this mod!
 
 If you found any unintended behaviour, please report it via the provided issue tracker.
 
