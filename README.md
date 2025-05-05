@@ -1,5 +1,5 @@
 ## Description:
-Persistent Effects is a server-side mod designed to enhance gameplay and convenience. It ensures that players retain their positive status effects even after death, eliminating the frustration of losing buffs upon respawning. By preserving effects and reapplying them automatically, this mod not only improves the player experience but also maintains fairness in multiplayer environments.
+Persistent Effects is a mod designed to enhance gameplay and convenience. It ensures that players retain their positive status effects even after death, eliminating the frustration of losing buffs upon respawning. By preserving effects and reapplying them automatically, this mod not only improves the player experience but also maintains fairness in multiplayer environments.
 
 Key Features:
 
@@ -11,11 +11,11 @@ Key Features:
   
   - Fully compatible with all modded effects.
 
-Whether you're running a small private server or a large multiplayer world, Persistent Effects helps streamline gameplay while maintaining balance and fairness.
+Whether you're playing in a singleplayer world or managing your server, Persistent Effects helps streamline gameplay while maintaining balance and fairness.
 
 This mod has full compatibility with most mods that introduce new effects or alter existing ones.
 
-I will soon release this mod for additional Minecraft versions and make it client-side too. To stay up to date for future updates and releases, consider following this mod!
+I will soon release this mod for additional Minecraft versions. To stay up to date for future updates and releases, consider following this mod!
 
 If you found any unintended behaviour, please report it via the provided issue tracker.
 
@@ -23,9 +23,9 @@ Feel free to include this mod in your modpack!
 
 ## How to install:
 1. Download the latest `.jar` file from the [Releases](https://github.com/TommonPavou/Persistent-Effects/releases) section.
-2. Place the file into the `mods/` folder of your Minecraft server.
+2. Place the file into the `mods/` folder of your Minecraft server/game.
 3. Start the server to load the mod.
-4. Configure the mod with the file `persistent-effects-exclusions.txt` in the `config/` folder of your Minecraft server.
+4. Configure the mod with the file `persistent-effects-exclusions.txt` in the `config/` folder of your Minecraft server/game.
 
 
 ## Bug Reporting
