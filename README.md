@@ -24,7 +24,7 @@ Feel free to include this mod in your modpack!
 ## How to install:
 1. Download the latest `.jar` file from the [Releases](https://github.com/TommonPavou/Persistent-Effects/releases) section.
 2. Place the file into the `mods/` folder of your Minecraft server/game.
-3. Start the server to load the mod.
+3. Start the server/game to load the mod.
 4. Configure the mod with the file `persistent-effects-exclusions.txt` in the `config/` folder of your Minecraft server/game.
 
 
